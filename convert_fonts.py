@@ -102,8 +102,8 @@ def convert_font_to_woff2(input_path, output_directory=None):
 # Example usage
 if __name__ == "__main__":
     # Replace with your font path
-    convert_font_to_woff2('MDNichrome-Bold.otf')
-    convert_font_to_woff2('Termina-Heavy.otf')
+    convert_font_to_woff2('font1.otf')
+    convert_font_to_woff2('font2.otf')
 
 # def main():
 #     """
